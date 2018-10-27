@@ -16,7 +16,7 @@ This repository is part of the Software modeling and analysis course for Compute
   * pesentations - [Conceptual Data Model - p3](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-03.pdf)
   
 * Third week:
-  * presentations -[Logical Data Model - p4](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-04.pdf), [Logical Data Model - p5](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-05.pdf)
+  * presentations -[Logical & Physical Data Model - p4](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-04.pdf), [Logical Data Model - p5](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-05.pdf)
   
 * Six week:
   * presentations - [Normalization & Denormalization](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-06.pdf)
