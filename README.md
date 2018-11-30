@@ -34,3 +34,7 @@ This repository is part of the Software modeling and analysis course for Compute
 * Eight week:
   * presentations -
  [Multidimensional Data Model - p10](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-10.pdf)
+ 
+* Ninth week:
+  * presentations -
+ [Tabular databasse - p11](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-11.pdf), [Data Flow Diagrams - p12](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-12.pdf)
