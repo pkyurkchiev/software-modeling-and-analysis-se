@@ -24,17 +24,21 @@ This repository is part of the Software modeling and analysis course for Compute
 * Fifth week:
   * presentations - [Physical Data Model - p7](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-07.pdf)
   
-* Six week:
-  * presentations - [Data warehouses - p8](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-08.pdf)
+* Sixth week:
+  * presentations - [Data Warehouses - p8](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-08.pdf)
     
 * Seventh week:
   * presentations -
  [Multidimensional Database - p9](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-09.pdf)
  
-* Eight week:
+* Eighth week:
   * presentations -
  [Multidimensional Data Model - p10](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-10.pdf)
  
 * Ninth week:
   * presentations -
- [Tabular databasse - p11](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-11.pdf), [Data Flow Diagrams - p12](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-12.pdf)
+ [Tabular Database - p11](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-11.pdf), [Data Flow Diagrams - p12](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-12.pdf)
+ 
+* Tenth week:
+  * presentations -
+ [NoSQL Database Model - p12](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-12.pdf), [Business Intelligence - p13](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-13.pdf)
