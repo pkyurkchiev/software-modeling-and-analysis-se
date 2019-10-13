@@ -17,7 +17,7 @@ This repository is part of the Software modeling and analysis course for Compute
   * presentations - [Data Modeling - p1](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-01.pdf), [Data Modeling - p2](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-02.pdf)
 
 * Second week:
-  * pesentations -
+  * pesentations - [Conceptual Data Model - p3](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-03.pdf)
   
 * Third week:
   * presentations -
