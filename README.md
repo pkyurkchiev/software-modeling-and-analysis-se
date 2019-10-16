@@ -18,9 +18,9 @@ This repository is part of the Software modeling and analysis course for Compute
 
 * Second week:
   * pesentations - [Conceptual Data Model - p3](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-03.pdf)
-  
+
 * Third week:
-  * presentations -
+  * presentations -[Logical & Physical Data Model - p4](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-04.pdf), [Logical & Physical Data Model - p5](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-05.pdf)
   
 * Fourth week:
   * presentations -
