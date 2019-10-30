@@ -26,7 +26,7 @@ This repository is part of the Software modeling and analysis course for Compute
   * presentations - [Normalization & Denormalization - p6](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-06.pdf)
 
 * Fifth week:
-  * presentations -
+  * presentations - [Physical Data Model - p7](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-07.pdf)
   
 * Sixth week:
   * presentations -
