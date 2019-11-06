@@ -27,9 +27,9 @@ This repository is part of the Software modeling and analysis course for Compute
 
 * Fifth week:
   * presentations - [Physical Data Model - p7](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-07.pdf)
-  
+
 * Sixth week:
-  * presentations -
+  * presentations - [Data Warehouses - p8](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-08.pdf)
     
 * Seventh week:
   * presentations -
