@@ -33,6 +33,7 @@ This repository is part of the Software modeling and analysis course for Compute
     
 * Seventh week:
   * presentations -
+ [Multidimensional Database - p9](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-09.pdf)
  
 * Eighth week:
   * presentations -
