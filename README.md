@@ -32,7 +32,8 @@ This repository is part of the Software modeling and analysis course for Compute
   * presentations - [Data Warehouses - p8](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-08.pdf)
     
 * Seventh week:
-  * presentations
+  * presentations -
+ [Multidimensional Database - p9](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-09.pdf)
  
 * Eighth week:
   * presentations
