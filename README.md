@@ -50,4 +50,4 @@ This repository is part of the Software modeling and analysis course for Compute
 
 * Tenth week:
   * presentations -
- [NoSQL Database Model - p12](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-12.pdf), [Business Intelligence - p13](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-13.pdf)
+ [NoSQL Database Model - p13](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-13.pdf), [Business Intelligence - p14](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-14.pdf)
