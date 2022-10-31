@@ -1,6 +1,6 @@
 # Курсова работа
 
-1.	Изберете си някоя онлайн платформа. Например: Youtube, Reddit, eBay, Netflix, LinkedIn, Amazon, т.н.. Трябва да си запишете темата в споделения документ: https://docs.google.com/spreadsheets/d/1QnRluBfdveR-raMAJNrZrgBjQRgbKWrMZzAzK9mNgCA/edit#gid=0 
+1.	Изберете си някоя онлайн платформа. Например: Youtube, Reddit, eBay, Netflix, LinkedIn, Amazon, т.н.. Трябва да си запишете темата в споделения документ: https://docs.google.com/spreadsheets/d/1_Oomq0YSjv6ba88JWxlmcL2LkY8Ia6kIvHDLZ54foMQ/edit#gid=0
 2.	Изградете диаграми (концептуална и логическа) на избраната от вас платформа, използвайки Visio, която съдържа (при логическия модел):
     1.	Минимум 6 таблици.
     2.	Минимум 30 атрибута.
