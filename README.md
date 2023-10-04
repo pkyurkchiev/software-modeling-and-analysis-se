@@ -5,7 +5,7 @@ This repository is part of the Software modeling and analysis course for Compute
 #
 ### Course assignment
 * [Task](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/blob/master/course-work/README.md)
-* [Assessment](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/documentations/assessment-requirements.md)
+* [Assessment Requirements](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/documentations/assessment-requirements.md)
 
 
 #
