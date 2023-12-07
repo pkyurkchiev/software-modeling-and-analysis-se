@@ -15,7 +15,7 @@ This repository is part of the Software modeling and analysis course for Compute
 
 #
 ### Course roadmap:
-* [link](https://miro.com/app/board/uXjVO845q9I=/)
+* [Link](https://miro.com/app/board/uXjVO845q9I=/)
 
 
 #
