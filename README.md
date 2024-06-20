@@ -1,5 +1,5 @@
 ## Introduction to Software modeling and analysis
-<sup>This repository is part of the **Software modeling and analysis course** for regular students of Software Engineering at Plovdiv University..</sup>\
+<sup>This repository is part of the **Software modeling and analysis course** for regular students of Software Engineering at Plovdiv University.</sup>\
 This repository is part of the Software Modeling and Analysis course for Computer Science students at Plovdiv University. The course is designed to provide an overview of the principles of building a database model according to the program specifications for software projects. Defining a conceptual, logical, and physical model of the data allows verification of program specifications and a better understanding of data flow and management methods from all parties in the project.
 
 Course participants are introduced to the theory and formal processes of data modeling for various purposes.
