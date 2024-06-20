@@ -27,7 +27,7 @@ To get started with the course, clone this repository and follow the instruction
 * [Exercises need tools](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/documentations/tools.md)
 
 
-### Weeks Schedule:
+### Weeks Schedule
 * First week: 
   * presentations - [Data Modeling - p1](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-01.pdf), [Data Modeling - p2](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-02.pdf)
 * Second week:
@@ -53,7 +53,7 @@ To get started with the course, clone this repository and follow the instruction
   * presentations -
  [NoSQL Database Model - p13](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-13.pdf), [Business Intelligence - p14](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/presentations/Lecture-14.pdf)
 
-### Course assignment:
+### Course assignment
 * [Task](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/blob/master/course-work/README.md)
 * [Assessment Requirements](https://github.com/pkyurkchiev/software-modeling-and-analysis-se/tree/master/documentations/assessment-requirements.md)
 
