@@ -5,6 +5,7 @@ The course is designed to provide an overview of the principles of building a da
 Course participants are introduced to the theory and formal processes of data modeling for various purposes.
 
 ### POLL
+* [Form](https://forms.gle/FPkdrr4HbLZDD6xd8)
 
 ### Competencies
 Upon successful completion of this course, participants will:
